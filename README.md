@@ -17,8 +17,13 @@
 <a href="https://twitter.com/raiyanALsultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rraiyan77" height="30" width="40" /></a>
 </p>
 
-<p align="left">
+<p align="right">
 <a href="https://www.instagram.com/raiyanalsultan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rraiyan77" height="30" width="40" /></a>
+</p
+  
+  
+ <p align="center">
+<a href="https://www.linkedin.com/in/nabil-raiyan-45b2b7258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rraiyan77" height="30" width="40" /></a>
 </p
 
 <h3 align="left">Languages and Tools:</h3>
