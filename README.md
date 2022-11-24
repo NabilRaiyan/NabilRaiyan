@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabilraiyan&label=Profile%20views&color=0e75b6&style=flat" alt="nabilraiyan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rraiyan77" target="blank"><img src="https://img.shields.io/twitter/follow/rraiyan77?logo=twitter&style=for-the-badge" alt="rraiyan77" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/rraiyan77](https://twitter.com/raiyanALsultan)" target="blank"><img src="https://img.shields.io/twitter/follow/rraiyan77?logo=twitter&style=for-the-badge" alt="rraiyan77" /></a> </p>
 
 - 🌱 I’m currently learning **Python programming**
 
