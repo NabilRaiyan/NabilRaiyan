@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact **Maybe I am funny**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NabilRaiyan)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilraiyan&show_icons=true&locale=en" alt="nabilraiyan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilraiyan&" alt="nabilraiyan" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NabilRaiyan)](https://git.io/streak-stats)
