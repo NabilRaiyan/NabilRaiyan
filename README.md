@@ -1,7 +1,7 @@
 <!-- CSS Part -->
 
 h1{
-  text-align:"center"
+  text-align:"center";
 }
 
 
