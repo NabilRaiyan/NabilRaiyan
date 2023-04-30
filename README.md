@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/raiyanALsultan" target="blank"><img src="https://img.shields.io/twitter/follow/raiyanAlsultan?logo=twitter&style=for-the-badge" alt="rraiyan77" /></a> </p>
 
-- 🌱 I’m currently learning **Python programming**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **raiyan66p@gmail.com**
 
