@@ -40,4 +40,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilraiyan&show_icons=true&locale=en" alt="nabilraiyan" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NabilRaiyan&theme=graywhite&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
