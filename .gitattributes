@@ -1,2 +1,9 @@
-linguist-vendored
-.js linguist-vendored=false
+# Exclude node_modules from language statistics
+node_modules/* linguist-vendored
+
+# Exclude build output directories
+dist/* linguist-vendored
+build/* linguist-vendored
+
+# Exclude generated files
+*.gen.cs linguist-generated
