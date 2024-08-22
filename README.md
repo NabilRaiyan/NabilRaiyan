@@ -13,10 +13,13 @@
 -   <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="blank">The Complete 2023 Web Development Bootcamp</a>
 -   <a href="https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/" target="blank">Master the Coding Interview: Data Structures + Algorithms</a>
 -   <a href="https://www.udemy.com/course/complete-react-developer-zero-to-mastery/" target="blank">Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)</a>
--   <a href="https://www.udemy.com/course/learn-ethical-hacking-from-scratch/" target="blank">Learn Ethical Hacking From Scratch 2024</a>
+-   <a href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery" target="blank">Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas &amp; more!</a>
+
 
 - 🌱 Finished Courses:
 -  <a href="https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/" target="blank">Complete NodeJS Developer in 2023 (GraphQL, MongoDB, + more)</a>
+-   <a href="https://www.udemy.com/course/laravel-beginner-fundamentals/?couponCode=SKILLS4SALEB" target="blank">Master Laravel: Build 5 Real-World Projects! Unlock Web Development Skills with In-Demand PHP Framework!</a>
+
  
 - 📫 How to reach me **raiyanalsultan@gmail.com**
 
